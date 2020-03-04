@@ -1,4 +1,4 @@
-# Tides of War GIMP plug-in
+# Tides of War GIMP plug-ins
 
 ![icon](icon.png)
 #### Author:

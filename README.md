@@ -22,6 +22,8 @@ Facebook: [Ruben Alvarez Reyes](https://www.facebook.com/thisisnotruben)
 #### Installation:
 Once downloaded, copy plug-ins to GIMP plug-in directory.
 
+*Copy **only** the scripts*
+
 ```bash
 cp *.py $HOME/.gimp-2.8/plug-ins/
 ```

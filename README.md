@@ -19,6 +19,13 @@ Facebook: [Ruben Alvarez Reyes](https://www.facebook.com/thisisnotruben)
 * [Tides of War](https://github.com/thisisnotruben/Tides-of-War)
 * [GIMP](https://www.gimp.org/) *tested on version 2.8.22*
 
+#### Installation:
+Once downloaded, copy plug-ins to GIMP plug-in directory.
+
+```bash
+cp *.py $HOME/.gimp-2.8/plug-ins/
+```
+
 #### Example console usage:
 
 *The following syntax after **-b** is in scheme*

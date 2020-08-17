@@ -13,14 +13,14 @@ Instagram: [thisisnotruben](https://www.instagram.com/thisisnotruben/)
 
 Facebook: [Ruben Alvarez Reyes](https://www.facebook.com/thisisnotruben)
 
-## Description:
+## Description
 * Makes the the death effect animation for [Tides of War](https://github.com/thisisnotruben/Tides-of-War).
 
-## Program used for:
+## Program used for
 * [Tides of War](https://github.com/thisisnotruben/Tides-of-War)
 * [GIMP](https://www.gimp.org/) *tested on version 2.8.22*
 
-## Installation:
+## Installation
 Once downloaded, copy plug-ins to GIMP plug-in directory.
 
 *Copy **only** the scripts*
@@ -29,7 +29,7 @@ Once downloaded, copy plug-ins to GIMP plug-in directory.
 cp *.py $HOME/.gimp-2.8/plug-ins/
 ```
 
-## Example console usage:
+## Example console usage
 
 *The following syntax after **-b** is in scheme*
 
@@ -43,8 +43,8 @@ cp *.py $HOME/.gimp-2.8/plug-ins/
 gimp -idf -b '(python-fu-death-anim-batch RUN-NONINTERACTIVE "SRC" "DEST" NUM_OF_FRAMES STARTING_FRAME)' -b '(gimp-quit 0)'
 ```
 
-## Example output:
+## Example output
 ![example](example.png)
 
-## End Result:
+## End Result
 ![example-death-animation](example_anim.gif)
